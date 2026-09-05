@@ -39,7 +39,7 @@ class User:
 
 # -----------------------USERS----------------------
 users = [
-    User("SHAYAN", "9211", "shayan40404", 41000, True, 20000),
+    User("ZOHA", "9211", "zoha40404", 41000, True, 20000),
     User("SABOOR", "0345", "pathan1238", 57440),
     User("SHAKILA", "0088", "fawadkishakila", 25000, True, 15000),
     User("AYAN", "1920", "lalokad007", 5000)
